@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Simple-Blog-XML : My Blog</title>
+  <link>blogindex.php</link>
+  <description>Simple-Blog-XML : My Blog</description>
+	<item>
+	<title>    My place holder title 3 </title>
+	<link>permalink.php?ReadPost=2</link>
+	<description>    Monday 5th July 2010</description>
+  </item>
+	<item>
+	<title>    My place holder title 2 </title>
+	<link>permalink.php?ReadPost=1</link>
+	<description>    Sunday 4th July 2010</description>
+  </item>
+	<item>
+	<title>    My place holder title 1 </title>
+	<link>permalink.php?ReadPost=0</link>
+	<description>    Saturday 3rd July 2010</description>
+  </item>
+</channel>
+
+</rss>
