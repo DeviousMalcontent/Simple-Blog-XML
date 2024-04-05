@@ -15,6 +15,9 @@ function MarkToMarkDown(input)
 input=input.replace(/\]/gi,'>');
 input=input.replace(/\[/gi,'<');
 
+input=input.replaceAll('%26%2391%3B','&#91;');
+input=input.replaceAll("%26%2393%3B","&#93;");
+
 return input;
 }
 
