@@ -41,7 +41,7 @@ If I have a post that's a little bit more elaborate I'll use a HTML template, I'
 
 I'll Happily admit there are better ways to do this, but this process works for me.
 
-###Do I need to use PHP? can I just use plain HTML?
+### Do I need to use PHP? can I just use plain HTML?
 In theory yes, you could host a website that uses this product on GitHub, rather than have the code run server side, you would need to write some sort of shell script, to update the MaxPosts value in the home page file (index.php), every time a post is added, you would still need to use JavaScript to traverse entries, but it should also be possible to create a variant of this product that does not require JavaScript at all.
 
 ## RoadMap / What features do you want to add?
