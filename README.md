@@ -3,7 +3,7 @@ Web based blog system that uses XML files containing markdown for entries and ge
 
 # Setup
 
-##Windows
+## Windows
 You'll need to set up some sort of HTTP server that runs PHP, I use XAMPP, copy all the files in the projects repository and place them in the root directory of your server, (usually htdocs folder), from here you can add any customizations as required, or start creating posts by editing the blog dot xml files (1.xml, 2.xml, 3.xml etc.) found in the blog directory.
 
 ## File structure
@@ -27,7 +27,6 @@ So, my answer is that you're welcome to use whatever framework you like, the pri
 
 ### Have you heard of Hugo?
 Yes, it was released back in 2013 and I started this project in 2009. 
-
 
 ### What JavaScript framework did you use?
 None, it's completely vanilla.
