@@ -26,7 +26,10 @@ When I started this project back in 2009, I first tried out an open-source PHP b
 So, my answer is that you're welcome to use whatever framework you like, the primary reason for open sourcing the kludgy implementation that I made for my own personal website was the result of joining the IT society at my local university that required us to contribute to an open-source project.
 
 ### Have you heard of Hugo?
-Yes, it was released back in 2013 and I started this project in 2009. 
+Yes, it was released back in 2013 and I started this project in 2009.
+
+### What is blog.xml used for? 
+It's a generated RSS feed file from the blogindex.php file, RSS feeds were a way of tracking website changes or receiving a notification when a new post was added to a site, they went out of style but should be making a return as the Internet becomes more and more awful.
 
 ### What JavaScript framework did you use?
 None, it's completely vanilla.
